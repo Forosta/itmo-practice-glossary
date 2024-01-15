@@ -1,0 +1,60 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  width: 1800px;
+  padding: 0;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  margin-bottom: 5px;
+}
+
+.text-title {
+  font-size: 20px;
+}
+
+.nav ul {
+  display: flex;
+  gap: 50px;
+  flex-direction: row;
+}
+
+.nav ul li {
+  list-style-type: none;
+
+}
+
+.nav ul a {
+  font-size: 25px;
+  text-decoration: none;
+  color: black;
+  font-weight: 600;
+  border-bottom: 2px solid transparent;
+  transition: border .3s ease-in-out;
+}
+
+.pageMain {
+  width: 100%;
+}
+
+.nav ul a:hover {
+  border-bottom: 2px solid black;
+  color: black;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}

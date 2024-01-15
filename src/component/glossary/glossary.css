@@ -1,0 +1,27 @@
+.glossary-container {
+  padding: 20px;
+  border: 1px solid lightgrey;
+  border-radius: 10px;
+  margin: auto;
+  max-width: 1000px;
+}
+
+h2 {
+  text-align: center;
+}
+
+input {
+  border: 1px solid;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.glossary-list {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.glossary-list li {
+  line-height: 20px;
+}

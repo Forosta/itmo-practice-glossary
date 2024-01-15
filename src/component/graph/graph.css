@@ -1,0 +1,9 @@
+.graph {
+  padding: 10px 20px;
+  width: 100%;
+  border: 1px solid lightgrey;
+  border-radius: 10px;
+  text-align: center;
+  margin: 0;
+  background-color: antiquewhite;
+}
