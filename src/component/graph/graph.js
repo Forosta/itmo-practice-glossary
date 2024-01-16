@@ -6,7 +6,7 @@ import './graph.css'
 const Graph = () => {
   const networkRef = useRef(null);
   const [nodes] = useState(new DataSet([
-    { id: 1, label: "Главный сервис", size: 25 },
+    { id: 1, label: "Главный сервис", size: 25, color: '#3EB489' },
     { id: 2, label: "Модуль Анализа", size: 15 },
     { id: 3, label: "Нейросеть", size: 15 },
     { id: 4, label: "Дата-сет", size: 15 },
