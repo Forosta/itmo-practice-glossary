@@ -29,7 +29,7 @@ const Graph = () => {
     { from: 1, to: 7, label: 'Может иметь', font: { align: 'horizontal' } },
     { from: 1, to: 10, label: 'Может иметь', font: { align: 'horizontal' } },
     { from: 1, to: 11, label: 'Может иметь', font: { align: 'horizontal' } },
-    { from: 2, to: 12, label: 'Взаимодействует с', font: { align: 'horizontal' } },
+    { from: 2, to: 3, label: 'Взаимодействует с', font: { align: 'horizontal' } },
     { from: 3, to: 4, label: 'Обучается с помощью', font: { align: 'horizontal' } },
     { from: 3, to: 14, label: 'Реализована в виде', font: { align: 'horizontal' } },
     { from: 3, to: 13, label: 'Является', font: { align: 'horizontal' } },
