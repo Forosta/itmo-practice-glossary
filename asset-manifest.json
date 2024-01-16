@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/itmo-practice-glossary/static/css/main.f1358f32.css",
-    "main.js": "/itmo-practice-glossary/static/js/main.a4446252.js",
+    "main.js": "/itmo-practice-glossary/static/js/main.099cc4a9.js",
     "static/js/787.1c725a83.chunk.js": "/itmo-practice-glossary/static/js/787.1c725a83.chunk.js",
     "index.html": "/itmo-practice-glossary/index.html",
     "main.f1358f32.css.map": "/itmo-practice-glossary/static/css/main.f1358f32.css.map",
-    "main.a4446252.js.map": "/itmo-practice-glossary/static/js/main.a4446252.js.map",
+    "main.099cc4a9.js.map": "/itmo-practice-glossary/static/js/main.099cc4a9.js.map",
     "787.1c725a83.chunk.js.map": "/itmo-practice-glossary/static/js/787.1c725a83.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f1358f32.css",
-    "static/js/main.a4446252.js"
+    "static/js/main.099cc4a9.js"
   ]
 }
