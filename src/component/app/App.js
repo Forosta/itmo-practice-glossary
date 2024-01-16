@@ -9,8 +9,8 @@ function App() {
   return (
     <Router>
       <main className="container">
-        <h1 className="title">Глоссарий по теме:</h1>
-        <p className="text-title">Анализ научных работ в области образования на основе блокчейн-датасета и нейросетевых технологий</p>
+        {/* <h1 className="title">Глоссарий по теме:</h1>
+        <p className="text-title">Анализ научных работ в области образования на основе блокчейн-датасета и нейросетевых технологий</p> */}
         <nav className="nav">
           <ul>
             <li>

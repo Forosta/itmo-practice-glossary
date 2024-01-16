@@ -33,7 +33,7 @@ const Graph = () => {
     { from: 3, to: 4, label: 'Обучается с помощью', font: { align: 'horizontal' } },
     { from: 3, to: 14, label: 'Реализована в виде', font: { align: 'horizontal' } },
     { from: 3, to: 13, label: 'Является', font: { align: 'horizontal' } },
-    { from: 4, to: 15, label: 'Использует', font: { align: 'horizontal' } },
+    { from: 4, to: 15, label: 'Хранит', font: { align: 'horizontal' } },
     { from: 5, to: 15, label: 'Содержат в себе', font: { align: 'horizontal' } },
     { from: 5, to: 13, label: 'Является', font: { align: 'horizontal' } },
     { from: 6, to: 5, label: 'Взаимодействует с', font: { align: 'horizontal' } },
@@ -118,7 +118,7 @@ const Graph = () => {
 
   return (
     <div className='graph'>
-      <div ref={networkRef} style={{ height: '500px' }} />
+      <div ref={networkRef} style={{ height: '800px' }} />
       {info && <div style={{ marginTop: '10px' }}>{info}</div>}
     </div>
   );
